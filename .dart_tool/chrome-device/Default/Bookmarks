@@ -1,0 +1,110 @@
+{
+   "checksum": "41a0ee88c1866f5af38d6aadea2f2a37",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13167835111496543",
+            "date_last_used": "0",
+            "guid": "88a26c69-6fee-469d-96f6-debb5e60e38b",
+            "id": "7",
+            "name": "Facebook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "date_added": "13310139346980180",
+            "date_last_used": "0",
+            "guid": "1c492d4b-f4ba-49a3-bc4f-0aa8c74b22c9",
+            "id": "8",
+            "name": "Mendaftar ke Google Workspace",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://workspace.google.com/business/signup/buy?hl=id&source=gafb-contact-globalnav-id&ga_region=japac&ga_country=id&ga_lang=id&gaFlag=true&__utma=61317162.450991739.1665665529.1665665593.1665665667.4&__utmb=61317162.2.10.1665665690526&__utmc=61317162&__utmx=-&__utmz=61317162.1665665667.4.4.utmcsr=google|utmgclid=CjwKCAjw7p6aBhBiEiwA83fGullRo-MS8pngFTvrPVg57Wff73LRS7_JIBdXf4GrS0U6s_nQBmW6uRoCnH8QAvD_BwE|utmgclsrc=aw.ds|utmccn=1011352-Workspace-APAC-ID-id-BKWS-PHR-LV|utmcmd=cpc|utmctr=KW_doc%20google|utmcct=text-ad-none-none-DEV_c-CRE_539836791334-ADGP_Hybrid%20|%20BKWS%20-%20PHR%20|%20Txt%20~%20Docs-KWID_43700065783318573-aud-1589252136846:kwd-349705783570&__utmv=-&__utmk=114956480"
+         }, {
+            "date_added": "13328287869203927",
+            "date_last_used": "0",
+            "guid": "8aa98971-159e-4db1-8171-d4a8b54d66f2",
+            "id": "9",
+            "name": "WhatsApp Web",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://web.whatsapp.com/%F0%9F%8C%90/id"
+         }, {
+            "date_added": "13326285384450844",
+            "date_last_used": "0",
+            "guid": "dd3eeea8-8de7-4afc-8274-6dddc482d977",
+            "id": "10",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13322046591930396",
+            "date_last_used": "0",
+            "guid": "6b864c2d-273e-492b-abe4-4e1932134828",
+            "id": "11",
+            "name": "ELearning ITG",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://elearning.itg.ac.id/student_area/tugas/index"
+         }, {
+            "date_added": "13326285384450192",
+            "date_last_used": "0",
+            "guid": "d8a89e01-8f69-4a0b-8b8f-defb164d3c0a",
+            "id": "12",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13326285384451137",
+            "date_last_used": "0",
+            "guid": "da7039f7-9a9a-415f-96b1-2008e1aefbfd",
+            "id": "13",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         } ],
+         "date_added": "13364201054558132",
+         "date_last_used": "0",
+         "date_modified": "13328287869203927",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13364201054558135",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13364201054558136",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCD6JvmeQAQAAEgAqGGQ5aGEreW1oK1R1NkZIcXhhU3pwSkE9PUgDoAYMEqgBCAwSowEKHGJrbDI4QUgzWWJwZXRpYVRFa2tYdEFYeXQzcz0SJGQ4YTg5ZTAxLThmNjktNGEwYi04YjhmLWRlZmIxNjRkM2MwYRgAIAAoADDTtZKi+jE4m4GKrN8xQJuBiqzfMUocODRoRVF3aWRLeUJNZ1V6Q1p3alRnM2M2NDIwPVofIh37SkR4UFpzTnlydVdaUVZtRFVCeTdoY01KS0w4PWVC7Qs+EqgBCAsSowEKHFJaZ0tPczVEdDFXUGJHK3NpYXZaTzdjelFvcz0SJDZiODY0YzJkLTI3M2UtNDkyYi1hYmU0LTRlMTkzMjEzNDgyOBgAIAAoADDRtZKi+jE4jIOKrN8xQIyDiqzfMUocSkZMTHMwc05xVjZzbmpMVWlCckx0bGN3OWxJPVofIh32VVh5RG5KTi84dFRMVjlid1d0TWQvMmZCckxvPWXdnuqhEqgBCAoSowEKHDJNdnl5ZjhhRk5pYkFiVWdIcU1FMkZsNVhOST0SJGRkM2VlZWE4LThkZTctNGFmYy04Mjc0LTZkZGRjNDgyZDk3NxgAIAAoADCL/oms3zE43IGKrN8xQNyBiqzfMUocL3hJRGpyTloweWJ6ZDJmZmRDNFpLbkxrSGhrPVofIh3sS0VObndMM0hQbzBpcVkxVElGTjdDRTFDanVZPWU4+TkzEqgBCAkSowEKHFFUbDFrdzl3a2xIMGxFS1p6dEV5TTdSaWlSdz0SJDhhYTk4OTcxLTE1OWUtNGRiMS04MTcxLWQ0YThiNTRkNjZmMhgAIAAoADDOtZKi+jE444KKrN8xQOOCiqzfMUocK0NzZUsrWUxQNnZpM0l1c0wwcUdFQXl2cTVRPVofIh3ZQU5pZjJYYkFFdU5SSEtuVU5yL1RSTmk1Y0xZPWVNewjpEqgBCA0SowEKHGozdmNBVkwvdTFoMC83THoydDQ0VkRjYzAxMD0SJGRhNzAzOWY3LTlhOWEtNDE1Zi05NmIxLTIwMDhlMWFlZmJmZBgAIAAoADDQtZKi+jE4n4KKrN8xQJ+CiqzfMUocTTBSbkg2d09JeW1ZN3RRQ3VaVjVMOHhQZUhBPVofIh39TWZoaEswQVZQMUcvUVltV0RlZXh0TzFSeWEwPWUAe3lnEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDdiMGNlNjQ1LTdlMTUtNWQyNy05NTkzLThhZjI3M2E4ZmIzNRgAIAAoADCekozi/jA42ZaM4v4wQNmWjOL+MEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASqAEICBKjAQocVHU4aUd3SktjUVhZVGM5U0MwTHVvKzNkME1zPRIkMWM0OTJkNGItZjRiYS00OWEzLWJjNGYtMGFhOGM3NGIyMmM5GAAgACgAMM+1kqL6MTjpgIqs3zFA6YCKrN8xShxhVFkrbEI5ZEU2b0RTQ2V5UzF4ck1XaUZHTG89Wh8iHbJGSnJ3QWJzSCtVek90aUllQ2QwdktPWHVTeWc9ZWJKqFwSpwEIBxKiAQocUTVhdjVPYjZoSkdCS1FhTkZhVnJOUkQ0VWtZPRIkODhhMjZjNjktNmZlZS00NjlkLTk2ZjYtZGViYjVlNjBlMzhiGAAgACgAMNK1kqL6MTi+gIqs3zFAvoCKrN8xShw0V3pKWmdsQXpma1dUTDhtR1k1cWZFQnJTcHM9Wh4iHGQ5cS8yQ0xybERNcjl0UHhsWGFQSkNDOVpBST1l5IKmIBKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ0ODE1ZGJiNy1lMDJhLTU2MzctOTRmZi0xMjk0MjM1YzY2YjAYACAAKAAwmJKM4v4wOIyVjOL+MECMlYzi/jBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGRiZThkNGYxLTBiMWYtNThmNS05NGUzLTQ4YzQ3N2VkNmJjMBgAIAAoADCZkozi/jA4qJWM4v4wQKiVjOL+MEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAwADgA",
+   "version": 1
+}
